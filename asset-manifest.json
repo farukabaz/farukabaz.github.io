@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9cddc66.chunk.css",
+    "main.js": "/static/js/main.c5a6d846.chunk.js",
+    "main.js.map": "/static/js/main.c5a6d846.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9184cdc7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9184cdc7.js.map",
+    "static/css/2.b6f7359a.chunk.css": "/static/css/2.b6f7359a.chunk.css",
+    "static/js/2.2c9713f4.chunk.js": "/static/js/2.2c9713f4.chunk.js",
+    "static/js/2.2c9713f4.chunk.js.map": "/static/js/2.2c9713f4.chunk.js.map",
+    "static/js/3.a55b4874.chunk.js": "/static/js/3.a55b4874.chunk.js",
+    "static/js/3.a55b4874.chunk.js.map": "/static/js/3.a55b4874.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b6f7359a.chunk.css.map": "/static/css/2.b6f7359a.chunk.css.map",
+    "static/css/main.a9cddc66.chunk.css.map": "/static/css/main.a9cddc66.chunk.css.map",
+    "static/js/2.2c9713f4.chunk.js.LICENSE.txt": "/static/js/2.2c9713f4.chunk.js.LICENSE.txt",
+    "static/media/armani-logo.1cef990f.png": "/static/media/armani-logo.1cef990f.png",
+    "static/media/chanel-logo.cf5397f2.png": "/static/media/chanel-logo.cf5397f2.png",
+    "static/media/dior-logo.4c9f5780.png": "/static/media/dior-logo.4c9f5780.png",
+    "static/media/dune.ff1b9af3.svg": "/static/media/dune.ff1b9af3.svg",
+    "static/media/flower.28d83a2b.svg": "/static/media/flower.28d83a2b.svg",
+    "static/media/leaf.62414969.svg": "/static/media/leaf.62414969.svg",
+    "static/media/perfume1.f9f8fed4.png": "/static/media/perfume1.f9f8fed4.png",
+    "static/media/perfume2.a1f4560d.png": "/static/media/perfume2.a1f4560d.png",
+    "static/media/perfume3.a8e6aa0a.png": "/static/media/perfume3.a8e6aa0a.png",
+    "static/media/perfume4.a70baeb6.png": "/static/media/perfume4.a70baeb6.png",
+    "static/media/slide1.9e76a9d4.jpg": "/static/media/slide1.9e76a9d4.jpg",
+    "static/media/slide2.46bdff07.jpg": "/static/media/slide2.46bdff07.jpg",
+    "static/media/slide3.3a1abeed.jpg": "/static/media/slide3.3a1abeed.jpg",
+    "static/media/slide4.40d29768.jpg": "/static/media/slide4.40d29768.jpg",
+    "static/media/tomford-logo.f66e10ad.png": "/static/media/tomford-logo.f66e10ad.png",
+    "static/media/wind.31587462.svg": "/static/media/wind.31587462.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9184cdc7.js",
+    "static/css/2.b6f7359a.chunk.css",
+    "static/js/2.2c9713f4.chunk.js",
+    "static/css/main.a9cddc66.chunk.css",
+    "static/js/main.c5a6d846.chunk.js"
+  ]
+}
